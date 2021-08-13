@@ -1,0 +1,36 @@
+body {
+  background-color: #FDEFEF;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 50%;
+  border-color: grey;
+}
+h1{
+  color: #66BFBF;
+}
+h3 {
+  text-align: left;
+  color: #66BFBF;
+}
+ol {
+  color: green;
+}
+ul {
+  color: red;
+}
+
+/*class*/
+.unorder1 {
+  color: violet;
+}
+.unorder2 {
+  color: orange;
+}
+
+/*id*/
+#diff {
+  text-decoration: underline;
+}
